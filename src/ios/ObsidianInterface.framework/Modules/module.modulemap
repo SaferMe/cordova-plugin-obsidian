@@ -1,0 +1,11 @@
+framework module ObsidianInterface {
+  umbrella header "ObsidianInterface.h"
+
+  export *
+  module * { export * }
+}
+
+module ObsidianInterface.Swift {
+    header "ObsidianInterface-Swift.h"
+    requires objc
+}

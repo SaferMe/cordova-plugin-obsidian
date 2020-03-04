@@ -1,0 +1,26 @@
+repositories{    
+  jcenter()
+  mavenLocal()
+}
+
+dependencies {
+  implementation("me.safer.obsidian:saferme-obsidian-release:0.1-alpha.4")
+  compile "org.jetbrains.kotlin:kotlin-stdlib:1.0.0"
+}
+
+android {
+  packagingOptions {
+    exclude 'META-INF/NOTICE'
+    exclude 'META-INF/LICENSE'
+    exclude 'META-INF/ktor-http.kotlin_module'
+    exclude 'META-INF/kotlinx-io.kotlin_module'
+    exclude 'META-INF/atomicfu.kotlin_module'
+    exclude 'META-INF/ktor-utils.kotlin_module'
+    exclude 'META-INF/proguard/coroutines.pro'
+    exclude 'META-INF/kotlinx-coroutines-io.kotlin_module'
+    exclude 'META-INF/kotlinx-coroutines-core.kotlin_module'
+    exclude 'META-INF/ktor-http-cio.kotlin_module'
+    exclude 'META-INF/ktor-client-core.kotlin_module'
+    exclude 'META-INF/proguard/androidx-annotations.pro'
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-obsidian",
+  "version": "0.0.1",
+  "description": "data plugin to handle all http request for mobile",
+  "cordova": {
+    "id": "com.saferme.obsidian",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Saferme Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaferMe/cordova-plugin-obsidian/issues"
+  },
+  "homepage": "https://github.com/SaferMe/cordova-plugin-obsidian#readme"
+}
