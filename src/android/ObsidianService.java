@@ -18,12 +18,6 @@ import android.content.Context;
 import kotlin.Pair;
 import java.util.ArrayList;
 
-
-
-
-
-
-
 public class ObsidianService extends CordovaPlugin implements IResourceCallback {
 
     public final String TAG = "ObsidianService";
