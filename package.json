@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-obsidian",
-  "version": "0.0.1",
-  "description": "data plugin to handle all http request for mobile",
+  "version": "0.1-alpha",
+  "description": "Cordova interface to allow Cordova based applications to use the SaferMe Obsidian Data Service",
   "cordova": {
     "id": "com.saferme.obsidian",
     "platforms": [
