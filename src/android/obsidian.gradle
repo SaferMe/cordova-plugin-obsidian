@@ -2,7 +2,7 @@ repositories{
   jcenter()
   maven {
     name "GitHubPackages"
-    url "https://maven.pkg.github.com/SaferMe/obsidian-service-android")
+    url "https://maven.pkg.github.com/SaferMe/obsidian-service-android"
     credentials {
       username "$System.env.GPR_USER"
       password "$System.env.GPR_KEY"
