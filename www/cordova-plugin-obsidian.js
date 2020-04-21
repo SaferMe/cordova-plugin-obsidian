@@ -36,12 +36,12 @@ Failure callback schema:
 */
 
 /** Tasks **/
-exports.Tasks = {
+module.exports.Tasks = {
 	/** Get a list of all available tasks, data argument is ignored */
 	index: function(data, success, error) { exec(success, error, PLUGIN_NAME, 'tasks.index', [data]) }
 }
 
-exports.Credentials = {
+module.exports.Credentials = {
 	/** Set tyhe credentials to use for API calls
 	Expected Data:
 	{
