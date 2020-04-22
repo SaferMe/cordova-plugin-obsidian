@@ -26,9 +26,6 @@
         </config-file>
       
         <source-file src="src/ios/ObsidianService.swift" />
-        <framework src="src/ios/Obsidian.framework" embed="true" custom="true" />
-        <framework src="src/ios/ObsidianClient.framework" embed="true" custom="true" />
-        <framework src="src/ios/ObsidianInterface.framework" embed="true" custom="true" />
         <dependency id="cordova-plugin-add-swift-support" version="2.0.2"/>
     </platform>
 </plugin>
