@@ -1,5 +1,3 @@
-import Obsidian
-import ObsidianInterface
 
 @objc(ObsidianService) class ObsidianService: CDVPlugin, SuccessCallback, ErrorCallBack {
     public var commandId: String = "";
@@ -23,10 +21,6 @@ import ObsidianInterface
   @objc(getTasks:)
   func getTasks(_ command: CDVInvokedUrlCommand) {
     self.commandId = command.callbackId
-      let msg = command.arguments[0] as? String ?? ""
-      var cordovaL = CordovaImpl(obsidian: Obsidian())
-      cordovaL.getTasks(args: ["reportId" : "123"], successCallback: self, errorCallBack: self)
-
   }
 
 }
