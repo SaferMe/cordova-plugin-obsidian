@@ -1,5 +1,5 @@
 
-@objc(ObsidianService) class ObsidianService: CDVPlugin, SuccessCallback, ErrorCallBack {
+@objc(ObsidianService) class ObsidianService: CDVPlugin {
     public var commandId: String = "";
 
     public func data(data: Dictionary<String, Any>) {
