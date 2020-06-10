@@ -4,66 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/Realm.framework/15A687C2-F0CB-339B-A5BC-60191BF37B04.bcsymbolmap</key>
-		<data>
-		nTe5cO9CAO/T6Bt13zBBMF3kwbU=
-		</data>
-		<key>Frameworks/Realm.framework/17D1C106-70ED-34A2-8193-676190BBE516.bcsymbolmap</key>
-		<data>
-		ofZyksXBAlw7uccPYu1BRds5RKU=
-		</data>
-		<key>Frameworks/Realm.framework/CHANGELOG.md</key>
-		<data>
-		oaG++VX4cO3UlzhgzXTqBUIWokw=
-		</data>
-		<key>Frameworks/Realm.framework/Info.plist</key>
-		<data>
-		DWcMMoWJ2Z7jwCAeHBf4iJQBiFY=
-		</data>
-		<key>Frameworks/Realm.framework/LICENSE</key>
-		<data>
-		s/BLVqzyrn8JYqqwe6WogDjdiIE=
-		</data>
-		<key>Frameworks/Realm.framework/Realm</key>
-		<data>
-		ivxRyzxiDJi5Lr3kVzN3oqwAZwo=
-		</data>
-		<key>Frameworks/Realm.framework/_CodeSignature/CodeResources</key>
-		<data>
-		EhB4GUXR+SQCM+a7OdSME1Oe5ao=
-		</data>
-		<key>Frameworks/Realm.framework/strip-frameworks.sh</key>
-		<data>
-		bENFeKfMHTdHyWS5AygjhdAo44Q=
-		</data>
-		<key>Frameworks/RealmSwift.framework/15A687C2-F0CB-339B-A5BC-60191BF37B04.bcsymbolmap</key>
-		<data>
-		nTe5cO9CAO/T6Bt13zBBMF3kwbU=
-		</data>
-		<key>Frameworks/RealmSwift.framework/17D1C106-70ED-34A2-8193-676190BBE516.bcsymbolmap</key>
-		<data>
-		ofZyksXBAlw7uccPYu1BRds5RKU=
-		</data>
-		<key>Frameworks/RealmSwift.framework/24D26A5A-FBB2-3478-A972-55C9EE7E0160.bcsymbolmap</key>
-		<data>
-		rtgMSpTKCiG9JS/3qx6MYY1NnJk=
-		</data>
-		<key>Frameworks/RealmSwift.framework/874D735F-33FF-3746-B86B-894A4D63E257.bcsymbolmap</key>
-		<data>
-		+drBYXJboQueIpi15oXKqepan3A=
-		</data>
-		<key>Frameworks/RealmSwift.framework/Info.plist</key>
-		<data>
-		V0diA6zOmq4ytclqOOUbwrpnNo8=
-		</data>
-		<key>Frameworks/RealmSwift.framework/RealmSwift</key>
-		<data>
-		zSdivPu0ZB3nFQqnS38RV1D+aV8=
-		</data>
-		<key>Frameworks/RealmSwift.framework/_CodeSignature/CodeResources</key>
-		<data>
-		wCc47BU/9sPFkUQ/wfhLXjsY/MQ=
-		</data>
 		<key>Headers/ObsidianIosLibrary-Swift.h</key>
 		<data>
 		srUIuEITk+KvjvRNtK+8W1zOEME=
@@ -74,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YMuYMRWughPP7n2QMVsXhpmdM1c=
+		z/Me6NDsJNQbIOE4hqj8jzgrstY=
 		</data>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Uf+oL5ZVjuIb7hjVRrWYv7tDzQY=
+		8z7tintQxYJ5SqEcJEuh+/7vmzA=
 		</data>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		Uf+oL5ZVjuIb7hjVRrWYv7tDzQY=
+		8z7tintQxYJ5SqEcJEuh+/7vmzA=
 		</data>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		yHGVoVYgZJRB25cR6JwGo0NMfW8=
+		oY3G/XT1ikHTJF6/nVaCnnHVFUQ=
 		</data>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HTZB7RSqzS0wUHMJjXxeyz9aY10=
+		P6HcxyP44Z9nl6vJO+bGo88nC/g=
 		</data>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		yHGVoVYgZJRB25cR6JwGo0NMfW8=
+		oY3G/XT1ikHTJF6/nVaCnnHVFUQ=
 		</data>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		HTZB7RSqzS0wUHMJjXxeyz9aY10=
+		P6HcxyP44Z9nl6vJO+bGo88nC/g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,111 +47,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/Realm.framework/15A687C2-F0CB-339B-A5BC-60191BF37B04.bcsymbolmap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6P4InvYFQvBMhvLqdkRswpSZi8iAEziZ0z+cGvnzf6s=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/17D1C106-70ED-34A2-8193-676190BBE516.bcsymbolmap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5S1AT2Bt9SDfxD7csS/i0IxMJqesGB8mo5KBf6BcF8k=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/CHANGELOG.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YU/3VE+P2iYRcJdkQIojmwdB7McyT3N3Uf0hTXhlt90=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Mach6nu0hBPI9O0agqwF4q0EERnIazy9FjRnfemsZFY=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/LICENSE</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wBafN/iIoXb0uMHx+9RGfujH1qAzUMdh/iNgD9BNE+A=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/Realm</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RJ8UMBM6gWmgjU7kucKp9gQRHOTAnN7jJhDtO3N9LZM=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NtVxr5+rUmk0Lev5Rh9WheNaOQRPC7ZQNVV9P1YTjzc=
-			</data>
-		</dict>
-		<key>Frameworks/Realm.framework/strip-frameworks.sh</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TdoX67LzludHG3MJM/ykgPmTswRtyXdokveq/f6XloI=
-			</data>
-		</dict>
-		<key>Frameworks/RealmSwift.framework/15A687C2-F0CB-339B-A5BC-60191BF37B04.bcsymbolmap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6P4InvYFQvBMhvLqdkRswpSZi8iAEziZ0z+cGvnzf6s=
-			</data>
-		</dict>
-		<key>Frameworks/RealmSwift.framework/17D1C106-70ED-34A2-8193-676190BBE516.bcsymbolmap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5S1AT2Bt9SDfxD7csS/i0IxMJqesGB8mo5KBf6BcF8k=
-			</data>
-		</dict>
-		<key>Frameworks/RealmSwift.framework/24D26A5A-FBB2-3478-A972-55C9EE7E0160.bcsymbolmap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8QkRMnqu+0SSMCHgbJU4YcPxIApSw/e+t52Dk0ZTfXc=
-			</data>
-		</dict>
-		<key>Frameworks/RealmSwift.framework/874D735F-33FF-3746-B86B-894A4D63E257.bcsymbolmap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			exV9ZHqaPWTuoqdib54sj8m+3mnrZsoMh4rtZmqj7Lk=
-			</data>
-		</dict>
-		<key>Frameworks/RealmSwift.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sSN4xY5YvLM0WZbucr5gKRHuw9HnMLpU2Y1rR1OW+8w=
-			</data>
-		</dict>
-		<key>Frameworks/RealmSwift.framework/RealmSwift</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3TndCUKI2NkOPqHByk+fvbVm2AE7Wj0iDt+xqZ3z2+s=
-			</data>
-		</dict>
-		<key>Frameworks/RealmSwift.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QHjlxvA4wZHeTjKT0YeWOQrIuGQ2mJ8PljwqrAs88Dw=
-			</data>
-		</dict>
 		<key>Headers/ObsidianIosLibrary-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -226,46 +61,46 @@
 			xrvAyz9J2z1ewc8S89oM4IBodX3coLXnv/gjYrMzFes=
 			</data>
 		</dict>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aNm6+W88khFMqDTtR1+sdrzKcRjxwbfV1kfDW3h9hyA=
+			aycpoN+RyBiy06AM1lFSqBJ70R/s8YbrhHKCJU3gmJE=
 			</data>
 		</dict>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aNm6+W88khFMqDTtR1+sdrzKcRjxwbfV1kfDW3h9hyA=
+			aycpoN+RyBiy06AM1lFSqBJ70R/s8YbrhHKCJU3gmJE=
 			</data>
 		</dict>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OaBJ2xYOWOZlX5XnkDjQ5P4pN1650BxCRG5w+H74iEo=
+			Maq24ninmqtd8WdntI2lb7Gq6bwGVZ0lphQDaPIMMqo=
 			</data>
 		</dict>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H71hH08uO3BSz7ZqjK/Bi6kGlLE5EQUb71t/uXc/CAc=
+			ebuXcjcEPKc7K+UJvz157oJLQeZkIsKxm7tVQqU10b0=
 			</data>
 		</dict>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OaBJ2xYOWOZlX5XnkDjQ5P4pN1650BxCRG5w+H74iEo=
+			Maq24ninmqtd8WdntI2lb7Gq6bwGVZ0lphQDaPIMMqo=
 			</data>
 		</dict>
-		<key>Modules/ObsidianIosLibrary.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H71hH08uO3BSz7ZqjK/Bi6kGlLE5EQUb71t/uXc/CAc=
+			ebuXcjcEPKc7K+UJvz157oJLQeZkIsKxm7tVQqU10b0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
