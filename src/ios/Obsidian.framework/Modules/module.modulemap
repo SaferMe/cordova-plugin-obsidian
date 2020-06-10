@@ -1,11 +1,11 @@
-framework module Obsidian {
-  umbrella header "Obsidian.h"
+framework module ObsidianIosLibrary {
+  umbrella header "ObsidianIosLibrary.h"
 
   export *
   module * { export * }
 }
 
-module Obsidian.Swift {
-    header "Obsidian-Swift.h"
+module ObsidianIosLibrary.Swift {
+    header "ObsidianIosLibrary-Swift.h"
     requires objc
 }

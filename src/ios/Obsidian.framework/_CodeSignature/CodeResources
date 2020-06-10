@@ -4,431 +4,110 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxBlocking.framework/Info.plist</key>
+		<key>Headers/ObsidianIosLibrary-Swift.h</key>
 		<data>
-		f6P3gIzSNLGtOuyLJnv54/wZX6o=
+		srUIuEITk+KvjvRNtK+8W1zOEME=
 		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxBlocking.framework/RxBlocking</key>
+		<key>Headers/ObsidianIosLibrary.h</key>
 		<data>
-		MO94zwbTm70FogtA44ADCLWAdxc=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxBlocking.framework/_CodeSignature/CodeResources</key>
-		<data>
-		2WJYMUEJNSW6lmwR94ZiSbu7ea4=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxCocoa.framework/Info.plist</key>
-		<data>
-		DEsOrOZMdo2XQuNVzm2QNJAS/Jo=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxCocoa.framework/RxCocoa</key>
-		<data>
-		WyOFwjzfBQjnL1+G10drfv/77Pc=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxCocoa.framework/_CodeSignature/CodeResources</key>
-		<data>
-		Y/sukAh5+dWGQ11ks8Hdh4JNsjI=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxRelay.framework/Info.plist</key>
-		<data>
-		en1cmqvxWBvl6dxPD9vzNlCi79c=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxRelay.framework/RxRelay</key>
-		<data>
-		5xw5v4NovQKxexqZ1QRjRVTVV8s=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxRelay.framework/_CodeSignature/CodeResources</key>
-		<data>
-		WB6v/MEGEAOsqe/vLqrL1wBRpo4=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxSwift.framework/Info.plist</key>
-		<data>
-		WUX3LNE/Ots3HdClIyjXjSotuys=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxSwift.framework/RxSwift</key>
-		<data>
-		fbQqWtst7jT4BduE2oyn1B4sYVs=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxSwift.framework/_CodeSignature/CodeResources</key>
-		<data>
-		R7aUTei1rBSSEpiER7xWmTDG5jA=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxTest.framework/Info.plist</key>
-		<data>
-		EyeYlD9d6DLHLfEFZzEeU1Isqpw=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxTest.framework/RxTest</key>
-		<data>
-		SdOBxzP+0uSPCwpy6+6RqIVBm3Y=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxTest.framework/_CodeSignature/CodeResources</key>
-		<data>
-		ZpL7HLsO06qSMZz0O/G7RJjx/+k=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/Info.plist</key>
-		<data>
-		lvAswdnCqOmx8CDmaV1gS2mG87U=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/ObsidianClient</key>
-		<data>
-		gRxbz3N/WxxE4GlJ5oBKpLKku3k=
-		</data>
-		<key>Frameworks/ObsidianClient.framework/_CodeSignature/CodeResources</key>
-		<data>
-		IAfeHH8A5eKBYuRDO9mW/TL1YNw=
-		</data>
-		<key>Frameworks/ObsidianInterface.framework/Info.plist</key>
-		<data>
-		s3vgIo3AUgKcZKm3G/8kJ5xysIk=
-		</data>
-		<key>Frameworks/ObsidianInterface.framework/ObsidianInterface</key>
-		<data>
-		ZdFWkTWlPt2xSLp+sxHI/zwGtzw=
-		</data>
-		<key>Frameworks/ObsidianInterface.framework/_CodeSignature/CodeResources</key>
-		<data>
-		PeuhSFpZGmEsXRm7r8v5WIgkfUs=
-		</data>
-		<key>Headers/Obsidian-Swift.h</key>
-		<data>
-		5Wk6I/Pf0p3nJTBoTEuAMwIJrIU=
-		</data>
-		<key>Headers/Obsidian.h</key>
-		<data>
-		Iq6gWH65BUQKaQ33F8lw43KNbmA=
+		TP6fx9hIF7BSHZszQJdP7ohC5TA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sakalSUeDrguHAIbTJ/WM3VLFwQ=
+		z/Me6NDsJNQbIOE4hqj8jzgrstY=
 		</data>
-		<key>Modules/Obsidian.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		M3icFSw8uu6IO/LdiXppdwHWY5U=
+		8z7tintQxYJ5SqEcJEuh+/7vmzA=
 		</data>
-		<key>Modules/Obsidian.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		k1arnQyk20PbCykhrzTSJYDuPy8=
+		8z7tintQxYJ5SqEcJEuh+/7vmzA=
 		</data>
-		<key>Modules/Obsidian.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		M3icFSw8uu6IO/LdiXppdwHWY5U=
+		oY3G/XT1ikHTJF6/nVaCnnHVFUQ=
 		</data>
-		<key>Modules/Obsidian.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		k1arnQyk20PbCykhrzTSJYDuPy8=
+		P6HcxyP44Z9nl6vJO+bGo88nC/g=
+		</data>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		oY3G/XT1ikHTJF6/nVaCnnHVFUQ=
+		</data>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		P6HcxyP44Z9nl6vJO+bGo88nC/g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		9i0ztX+w+0RDBFkDgp3ueXSt0Io=
+		+yl6c7O0GnGtafZ9BLvbYgeix5A=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxBlocking.framework/Info.plist</key>
+		<key>Headers/ObsidianIosLibrary-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f6P3gIzSNLGtOuyLJnv54/wZX6o=
-			</data>
 			<key>hash2</key>
 			<data>
-			BvNH6erXoWb6MTT3MzUZe0alUE6wKalM8Vdu/OXPZPI=
+			bvYD9GDO2E/ocmh/m/8xnYGyoP0RyA/k1bbbFkTMcuo=
 			</data>
 		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxBlocking.framework/RxBlocking</key>
+		<key>Headers/ObsidianIosLibrary.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MO94zwbTm70FogtA44ADCLWAdxc=
-			</data>
 			<key>hash2</key>
 			<data>
-			zqkX3IqjrvKVK+NxTkKxv7GgRDDQh7DuwzeMj+L+lLY=
+			xrvAyz9J2z1ewc8S89oM4IBodX3coLXnv/gjYrMzFes=
 			</data>
 		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxBlocking.framework/_CodeSignature/CodeResources</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2WJYMUEJNSW6lmwR94ZiSbu7ea4=
-			</data>
 			<key>hash2</key>
 			<data>
-			AE+3NvgCGCJZu8/lrk0QXEsM5nWMx5sNiYCjC5t7fJM=
+			aycpoN+RyBiy06AM1lFSqBJ70R/s8YbrhHKCJU3gmJE=
 			</data>
 		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxCocoa.framework/Info.plist</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DEsOrOZMdo2XQuNVzm2QNJAS/Jo=
-			</data>
 			<key>hash2</key>
 			<data>
-			IY1/XwHcSXhlG7vXd/zpwtpe0yTEtQVCQFixh+e12ik=
+			aycpoN+RyBiy06AM1lFSqBJ70R/s8YbrhHKCJU3gmJE=
 			</data>
 		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxCocoa.framework/RxCocoa</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WyOFwjzfBQjnL1+G10drfv/77Pc=
-			</data>
 			<key>hash2</key>
 			<data>
-			03x55vpqBTfuO8/PnY5dNrEV380KReEmptYPWbhqKRc=
+			Maq24ninmqtd8WdntI2lb7Gq6bwGVZ0lphQDaPIMMqo=
 			</data>
 		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxCocoa.framework/_CodeSignature/CodeResources</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Y/sukAh5+dWGQ11ks8Hdh4JNsjI=
-			</data>
 			<key>hash2</key>
 			<data>
-			i8nO2OXDAg3mrdNo+pDWPwVh9pQK1Oez1jT1QMHIfUQ=
+			ebuXcjcEPKc7K+UJvz157oJLQeZkIsKxm7tVQqU10b0=
 			</data>
 		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxRelay.framework/Info.plist</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			en1cmqvxWBvl6dxPD9vzNlCi79c=
-			</data>
 			<key>hash2</key>
 			<data>
-			pmX2vNz9Bqy6YQdWVL2kqOLOSy8KhED8YiQgTJj7v+c=
+			Maq24ninmqtd8WdntI2lb7Gq6bwGVZ0lphQDaPIMMqo=
 			</data>
 		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxRelay.framework/RxRelay</key>
+		<key>Modules/ObsidianIosLibrary.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5xw5v4NovQKxexqZ1QRjRVTVV8s=
-			</data>
 			<key>hash2</key>
 			<data>
-			PF8GCKkYhTtCM0vYR5KCnzew+cHGb+Ba4yZF7A+jQWY=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxRelay.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WB6v/MEGEAOsqe/vLqrL1wBRpo4=
-			</data>
-			<key>hash2</key>
-			<data>
-			CrrTdLoZjtjSOVcjnMYwfdw3PsHofd1GUZR19sT06Sc=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxSwift.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WUX3LNE/Ots3HdClIyjXjSotuys=
-			</data>
-			<key>hash2</key>
-			<data>
-			q1Ibh3oRFWTmIDxCACeEVm+OrA4HP/PYhExLy1iyIlE=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxSwift.framework/RxSwift</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fbQqWtst7jT4BduE2oyn1B4sYVs=
-			</data>
-			<key>hash2</key>
-			<data>
-			KQ3HeK560m8UF4MBUFk29lu9Q+CBrZVUfllimjETnk8=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxSwift.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			R7aUTei1rBSSEpiER7xWmTDG5jA=
-			</data>
-			<key>hash2</key>
-			<data>
-			o+72kRG7bECU4NrJhM3t8DhGGxXOiJAYZaEPN66RBpM=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxTest.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EyeYlD9d6DLHLfEFZzEeU1Isqpw=
-			</data>
-			<key>hash2</key>
-			<data>
-			76cPK2nzlWPRHmeFSuSrUpVm9t/ZwsAKXe5XHSoS93w=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxTest.framework/RxTest</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SdOBxzP+0uSPCwpy6+6RqIVBm3Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			0Duulm9IytzGhgM00PpoxuiDH1HrHvx3MAwf9wVGLu0=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianClient.framework/Frameworks/RxTest.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZpL7HLsO06qSMZz0O/G7RJjx/+k=
-			</data>
-			<key>hash2</key>
-			<data>
-			2wvo38+YQessUnJitgc6rPX/eXj0p5/w+WxEWPXuY2I=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianClient.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lvAswdnCqOmx8CDmaV1gS2mG87U=
-			</data>
-			<key>hash2</key>
-			<data>
-			yzM57z9YSFaabYIUuTu2eUBou56tAKvcx9pvuzIdil0=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianClient.framework/ObsidianClient</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gRxbz3N/WxxE4GlJ5oBKpLKku3k=
-			</data>
-			<key>hash2</key>
-			<data>
-			ODhuLczMJm9JAhNoK3XHcofRWaKYuw8hMN5ynAGVEww=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianClient.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IAfeHH8A5eKBYuRDO9mW/TL1YNw=
-			</data>
-			<key>hash2</key>
-			<data>
-			ozCowRDlMSCep9hD732ksdA7J4ONHXuvmi2c+I3VoJA=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianInterface.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			s3vgIo3AUgKcZKm3G/8kJ5xysIk=
-			</data>
-			<key>hash2</key>
-			<data>
-			5pav85S5cwieyGqAVoO8KyabgL+C+RJ5A+Q3L3fTt74=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianInterface.framework/ObsidianInterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZdFWkTWlPt2xSLp+sxHI/zwGtzw=
-			</data>
-			<key>hash2</key>
-			<data>
-			OAaSl2w4ar0QLuCK03HFtzvICFLB6zn25mgqGAv+obY=
-			</data>
-		</dict>
-		<key>Frameworks/ObsidianInterface.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PeuhSFpZGmEsXRm7r8v5WIgkfUs=
-			</data>
-			<key>hash2</key>
-			<data>
-			GqO/vUE3hVMT72L94X9o1nfUetTtNa3V5SyM1XOE8bU=
-			</data>
-		</dict>
-		<key>Headers/Obsidian-Swift.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5Wk6I/Pf0p3nJTBoTEuAMwIJrIU=
-			</data>
-			<key>hash2</key>
-			<data>
-			VK1ngmZC0XxO7fG+5okCQ6KOP0BVxdoKjhGdEVTJGKk=
-			</data>
-		</dict>
-		<key>Headers/Obsidian.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Iq6gWH65BUQKaQ33F8lw43KNbmA=
-			</data>
-			<key>hash2</key>
-			<data>
-			nmAIYgwUS9fUQvEeodXIQ9j1DuqtblgOcFY7RXHd0Vc=
-			</data>
-		</dict>
-		<key>Modules/Obsidian.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			M3icFSw8uu6IO/LdiXppdwHWY5U=
-			</data>
-			<key>hash2</key>
-			<data>
-			AQY5i0tNYKV1GvCyA7bWlqlhkkBfHplgPFZmUaNsBTI=
-			</data>
-		</dict>
-		<key>Modules/Obsidian.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k1arnQyk20PbCykhrzTSJYDuPy8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Xu/tM3vMJqK/giJnbayL8iV3IIeWPu/22Do6i8vEn2c=
-			</data>
-		</dict>
-		<key>Modules/Obsidian.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			M3icFSw8uu6IO/LdiXppdwHWY5U=
-			</data>
-			<key>hash2</key>
-			<data>
-			AQY5i0tNYKV1GvCyA7bWlqlhkkBfHplgPFZmUaNsBTI=
-			</data>
-		</dict>
-		<key>Modules/Obsidian.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k1arnQyk20PbCykhrzTSJYDuPy8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Xu/tM3vMJqK/giJnbayL8iV3IIeWPu/22Do6i8vEn2c=
+			ebuXcjcEPKc7K+UJvz157oJLQeZkIsKxm7tVQqU10b0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9i0ztX+w+0RDBFkDgp3ueXSt0Io=
-			</data>
 			<key>hash2</key>
 			<data>
-			HwcUSuINK0UMrROAM9KRIvdoGWrEEDW0bcduY8GBYCM=
+			XbZeYICNQdlVrbkEtcgcS3cChIF+lREdlhOgTvGWfeU=
 			</data>
 		</dict>
 	</dict>
